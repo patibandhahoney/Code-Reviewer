@@ -4,11 +4,11 @@ An AI-powered code review tool that analyzes JavaScript code and provides detail
 
 ## 📸 Preview
 
-# Wthout run
+### Wthout run
 
 ![Image](https://github.com/user-attachments/assets/48742d97-8b99-4f1f-949d-34fd1633dcd7)
 
-# After run
+### After run
 
 ![Image](https://github.com/user-attachments/assets/a661db21-c92d-4420-8901-c4b9ddd1a456)
 ---
