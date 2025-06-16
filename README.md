@@ -4,7 +4,7 @@ An AI-powered code review tool that analyzes JavaScript code and provides detail
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png)
+![Image](https://github.com/user-attachments/assets/48742d97-8b99-4f1f-949d-34fd1633dcd7)
 ---
 
 ## ⚙️ Tech Stack
